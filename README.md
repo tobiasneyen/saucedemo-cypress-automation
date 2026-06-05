@@ -28,7 +28,7 @@ La suite está dividida en módulos estratégicos dentro de la carpeta `cypress/
 
 Durante la ejecución de las pruebas automatizadas se detectaron fallas críticas en la aplicación (especialmente interactuando con el usuario `problem_user`). Los reportes de error correspondientes se encuentran documentados formalmente en el tablero de gestión:
 
-📌 **https://trello.com/invite/b/6a1df63c6b6b570b314b7c4f/ATTIb05c5406bdd807ccc211231ffd973f9115F5A6FA/saucedemo-qa** *(<- ¡ACÁ PEGA EL LINK DE TU TRELLO!)*
+📌 **https://trello.com/invite/b/6a1df63c6b6b570b314b7c4f/ATTIb05c5406bdd807ccc211231ffd973f9115F5A6FA/saucedemo-qa** 
 
 ### Resumen de bugs reportados:
 * **BUG-001:** Error de consistencia visual (Imágenes de productos rotas/reemplazadas por la foto de un perrito).
