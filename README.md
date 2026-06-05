@@ -33,8 +33,7 @@ Durante la ejecución de las pruebas automatizadas se detectaron fallas crítica
 ### Resumen de bugs reportados:
 * **BUG-001:** Error de consistencia visual (Imágenes de productos rotas/reemplazadas por la foto de un perrito).
 * **BUG-002:** Falla funcional en el ordenamiento del catálogo por precio (Menor a Mayor).
-* **BUG-003:** Error de lógica en el botón "Add to cart" en la vista de detalle del producto.
-* **BUG-004:** Bloqueo crítico en el formulario de Checkout (el campo *Last Name* no procesa la escritura de datos).
+* **BUG-003:** Bloqueo crítico en el formulario de Checkout (el campo *Last Name* no procesa la escritura de datos).
 
 ---
 
