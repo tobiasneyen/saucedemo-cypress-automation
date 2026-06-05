@@ -1,10 +1,10 @@
-# Suite de Pruebas Automatizadas - SauceDemo 🚀
+# Suite de Pruebas Automatizadas - SauceDemo 
 
 Este repositorio contiene una suite de pruebas de punta a punta (End-to-End) desarrollada con **Cypress** para la plataforma de prácticas **SauceDemo**. El objetivo del proyecto es validar los flujos principales del negocio, aplicar pruebas de regresión y documentar comportamientos inesperados (bugs).
 
 
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 * **Framework de Pruebas:** Cypress (v13+)
 * **Lenguaje:** JavaScript / Node.js
 * **Gestión de Defectos:** Trello
@@ -12,7 +12,7 @@ Este repositorio contiene una suite de pruebas de punta a punta (End-to-End) des
 
 
 
-## 🧪 Casos de Prueba Automatizados
+##  Casos de Prueba Automatizados
 
 La suite está dividida en módulos estratégicos dentro de la carpeta `cypress/e2e/`:
 
