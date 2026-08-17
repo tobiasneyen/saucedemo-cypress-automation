@@ -36,7 +36,7 @@ Durante la ejecución de las pruebas automatizadas se detectaron fallas crítica
 * **BUG-003:** Bloqueo crítico en el formulario de Checkout (el campo *Last Name* no procesa la escritura de datos).
 
 ---
-Este fue mi primer proyecto de automatización, mientras aprendía Cypress. Lo mantengo sin modificar como registro de mi punto de partida — para ver la evolución de mis prácticas, revisar el proyecto de OrangeHRM." 
+Este fue mi primer proyecto de automatización, mientras aprendía Cypress. Lo mantengo sin modificar como registro de mi punto de partida — para ver la evolución de mis prácticas, revisar el proyecto de OrangeHRM.
 
 ## 🚀 Cómo ejecutar las pruebas localmente
 
